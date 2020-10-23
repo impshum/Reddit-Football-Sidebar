@@ -36,7 +36,6 @@ Displays football data in the sidebar from apifootball.com.
 
 `football_api_key` - API key from apifootball  
 `football_league_ids` - League ids to get can be a list e.g. 123,124,125  
-`football_wiki_page` - Wiki page to populate
 
 ### Notes
 
